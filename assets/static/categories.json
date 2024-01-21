@@ -1,0 +1,228 @@
+[
+    {
+        "id": "1",
+        "name": "Novidades",
+        "slug": "novidades"
+    },
+    {
+        "id": "2",
+        "name": "Masculino",
+        "slug": "masculino",
+        "children": [
+            {
+                "name": "Comprar por marca",
+                "categories": [
+                    {
+                        "name": "Adidas",
+                        "slug": "adidas"
+                    },
+                    {
+                        "name": "Jordan",
+                        "slug": "jordan"
+                    },
+                    {
+                        "name": "Nike",
+                        "slug": "nike"
+                    },
+                    {
+                        "name": "Puma",
+                        "slug": "puma"
+                    },
+                    {
+                        "name": "Vans",
+                        "slug": "vans"
+                    },
+                    {
+                        "name": "Mizuno",
+                        "slug": "mizuno"
+                    },
+                    {
+                        "name": "New Balance",
+                        "slug": "new-balance"
+                    },
+                    {
+                        "name": "Yeezy",
+                        "slug": "yeezy"
+                    }
+                ]
+            },
+            {
+                "name": "Comprar por coleção",
+                "categories": [
+                    {
+                        "name": "Air Max",
+                        "slug": "air-max"
+                    },
+                    {
+                        "name": "Air Force",
+                        "slug": "air-force"
+                    },
+                    {
+                        "name": "Air Jordan",
+                        "slug": "air-jordan"
+                    },
+                    {
+                        "name": "Yeezy Slides",
+                        "slug": "yeezy-slides"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Feminino",
+        "slug": "feminino",
+        "children": [
+            {
+                "name": "Comprar por marca",
+                "categories": [
+                    {
+                        "name": "Adidas",
+                        "slug": "adidas"
+                    },
+                    {
+                        "name": "Jordan",
+                        "slug": "jordan"
+                    },
+                    {
+                        "name": "Nike",
+                        "slug": "nike"
+                    },
+                    {
+                        "name": "Puma",
+                        "slug": "puma"
+                    },
+                    {
+                        "name": "Vans",
+                        "slug": "vans"
+                    },
+                    {
+                        "name": "Mizuno",
+                        "slug": "mizuno"
+                    },
+                    {
+                        "name": "New Balance",
+                        "slug": "new-balance"
+                    },
+                    {
+                        "name": "Yeezy",
+                        "slug": "yeezy"
+                    }
+                ]
+            },
+            {
+                "name": "Comprar por coleção",
+                "categories": [
+                    {
+                        "name": "Air Max",
+                        "slug": "air-max"
+                    },
+                    {
+                        "name": "Air Force",
+                        "slug": "air-force"
+                    },
+                    {
+                        "name": "Air Jordan",
+                        "slug": "air-jordan"
+                    },
+                    {
+                        "name": "Yeezy Slides",
+                        "slug": "yeezy-slides"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Marcas",
+        "slug": "marcas",
+        "children": [
+            {
+                "name": "",
+                "categories": [
+                    {
+                        "name": "Adidas",
+                        "slug": "adidas"
+                    },
+                    {
+                        "name": "Jordan",
+                        "slug": "jordan"
+                    },
+                    {
+                        "name": "Nike",
+                        "slug": "nike"
+                    },
+                    {
+                        "name": "Puma",
+                        "slug": "puma"
+                    },
+                    {
+                        "name": "Vans",
+                        "slug": "vans"
+                    },
+                    {
+                        "name": "Mizuno",
+                        "slug": "mizuno"
+                    },
+                    {
+                        "name": "New Balance",
+                        "slug": "new-balance"
+                    },
+                    {
+                        "name": "Yeezy",
+                        "slug": "yeezy"
+                    }
+                ]
+            },
+            {
+                "name": "",
+                "categories": [
+                    {
+                        "name": "Adidas",
+                        "slug": "adidas"
+                    },
+                    {
+                        "name": "Jordan",
+                        "slug": "jordan"
+                    },
+                    {
+                        "name": "Nike",
+                        "slug": "nike"
+                    },
+                    {
+                        "name": "Puma",
+                        "slug": "puma"
+                    },
+                    {
+                        "name": "Vans",
+                        "slug": "vans"
+                    },
+                    {
+                        "name": "Mizuno",
+                        "slug": "mizuno"
+                    },
+                    {
+                        "name": "New Balance",
+                        "slug": "new-balance"
+                    },
+                    {
+                        "name": "Yeezy",
+                        "slug": "yeezy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Lançamentos",
+        "slug": "lancamentos"
+    },
+    {
+        "id": "6",
+        "name": "Outlet",
+        "slug": "outlet"
+    }
+]
